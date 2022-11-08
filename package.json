@@ -1,0 +1,20 @@
+{
+  "name": "demo-socket.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "instalar": "cd client && npm i && cd ../server && npm i && cd .."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcegdv/demo-node-socket.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcegdv/demo-node-socket.io/issues"
+  },
+  "homepage": "https://github.com/marcegdv/demo-node-socket.io#readme"
+}
